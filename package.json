@@ -1,0 +1,23 @@
+{
+  "name": "com.lizzyfox-code.unsafe-array",
+  "version": "1.0.0",
+  "displayName": "Unity-UnsafeArray",
+  "description": "A version of NativeArray from Unity.Collections with support of AllocatorManager.AllocatorHandle and without safety checks.",
+  "unity": "2022.3",
+  "unityRelease": "7f1",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.burst": "1.8.8",
+    "com.unity.collections": "2.1.4"
+  },
+  "keywords": [
+    "array",
+    "safety",
+    "native",
+    "unity.collections"
+  ],
+  "author": {
+    "name": "LizzyFox",
+	"url" : "https://github.com/LizzyFox-code"
+  }
+}
